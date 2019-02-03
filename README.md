@@ -1,5 +1,5 @@
 # [IIM] Symfony Blog 2018
-## Project
+## Description
 
 Creating a blog with Symfony
 
